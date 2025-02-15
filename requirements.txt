@@ -1,0 +1,7 @@
+qdrant-client
+streamlit
+answer-generation
+sentence-transformers
+transformers
+torch
+openai-whisper
